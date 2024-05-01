@@ -6,3 +6,4 @@ The assignment was to add some JavaScript codes to prompt user input for the nam
 
 ## Author
 Sean Singer
+with help from BCS learning assistant and classmate Jerriet Kuo.
