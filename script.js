@@ -12,10 +12,10 @@ const collectEmployees = function() {
         const firstName = prompt("First name");
         const lastName = prompt("Last name");
         const salary = prompt("Salary");
-        
+
         const employee = {
-            firstName: firstName,
-            lastName: lastName,
+            firstName: firstName.toUpperCase(),
+            lastName: lastName.toUpperCase(),
             salary: Number(salary)
         };
         console.log(employee);
